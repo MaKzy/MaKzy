@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaKzy
-- 👀 I’m interested in Data Science projects using SQL and Python.
+- 👀 I’m interested in Data Analysis projects using SQL and Python.
 - 🌱 I’m currently improving my skill by learning/diving deeper into complex Data Science concepts.
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 💞️ I’m looking to collaborate on Data Analysis/Science projects.
 - 📫 How to reach me at amakyeze@gmail.com
 
 <!---
